@@ -1,0 +1,554 @@
+[
+ {
+  "id": "osman-i",
+  "order": 1,
+  "name": "Osman Gazi",
+  "title": "Beyliğin doğuşu",
+  "terms": [
+   [
+    1299,
+    1324
+   ]
+  ],
+  "bio": "Söğüt ve Bithynia uçlarında beylik. 1299 geleneksel başlangıçtır; 1302 ve 1324 tarihleri modern araştırmalarda öne çıkar.",
+  "source": "https://islamansiklopedisi.org.tr/osman-i",
+  "wikipedia": "Osman I"
+ },
+ {
+  "id": "orhan",
+  "order": 2,
+  "name": "Orhan Gazi",
+  "title": "Bursa’dan Rumeli’ye",
+  "terms": [
+   [
+    1324,
+    1362
+   ]
+  ],
+  "bio": "Bursa, İznik ve İzmit; Gelibolu üzerinden Rumeli’de kalıcı bir köprübaşı.",
+  "source": "https://islamansiklopedisi.org.tr/orhan",
+  "wikipedia": "Orhan"
+ },
+ {
+  "id": "murad-i",
+  "order": 3,
+  "name": "I. Murad",
+  "title": "Hüdavendigâr",
+  "terms": [
+   [
+    1362,
+    1389
+   ]
+  ],
+  "bio": "Edirne merkezli Rumeli genişlemesi. Balkanlarda fetih ile tâbilik ilişkileri birlikte gelişti.",
+  "source": "https://islamansiklopedisi.org.tr/murad-i",
+  "wikipedia": "Murad I"
+ },
+ {
+  "id": "bayezid-i",
+  "order": 4,
+  "name": "I. Bayezid",
+  "title": "Yıldırım",
+  "terms": [
+   [
+    1389,
+    1402
+   ]
+  ],
+  "bio": "Anadolu beyliklerinin önemli bölümü birleştirildi. Ankara yenilgisi bu kazanımların bir kısmını geri çevirdi.",
+  "source": "https://islamansiklopedisi.org.tr/bayezid-i",
+  "wikipedia": "Bayezid I"
+ },
+ {
+  "id": "mehmed-i",
+  "order": 5,
+  "name": "I. Mehmed",
+  "title": "Çelebi",
+  "terms": [
+   [
+    1413,
+    1421
+   ]
+  ],
+  "bio": "Fetret sonrasında hanedan ve merkezî yönetim yeniden birleşti.",
+  "source": "https://islamansiklopedisi.org.tr/mehmed-i",
+  "wikipedia": "Mehmed I"
+ },
+ {
+  "id": "murad-ii",
+  "order": 6,
+  "name": "II. Murad",
+  "title": "Rumeli’de yeniden güçlenme",
+  "terms": [
+   [
+    1421,
+    1444
+   ],
+   [
+    1446,
+    1451
+   ]
+  ],
+  "bio": "Selânik’in alınması, Varna ve II. Kosova. Saltanatı iki ayrı dönemden oluşur.",
+  "source": "https://islamansiklopedisi.org.tr/murad-ii",
+  "wikipedia": "Murad II"
+ },
+ {
+  "id": "mehmed-ii",
+  "order": 7,
+  "name": "II. Mehmed",
+  "title": "Fatih",
+  "terms": [
+   [
+    1444,
+    1446
+   ],
+   [
+    1451,
+    1481
+   ]
+  ],
+  "bio": "İstanbul, Sırbistan, Mora, Trabzon ve Bosna. Karadeniz’de Osmanlı üstünlüğünün temelleri.",
+  "source": "https://islamansiklopedisi.org.tr/mehmed-ii",
+  "wikipedia": "Mehmed II"
+ },
+ {
+  "id": "bayezid-ii",
+  "order": 8,
+  "name": "II. Bayezid",
+  "title": "Akdeniz ve Karadeniz",
+  "terms": [
+   [
+    1481,
+    1512
+   ]
+  ],
+  "bio": "Kili ve Akkirman alındı. Venedik savaşları ve Safevîlerin yükselişi dönemin başlıklarıdır.",
+  "source": "https://islamansiklopedisi.org.tr/bayezid-ii",
+  "wikipedia": "Bayezid II"
+ },
+ {
+  "id": "selim-i",
+  "order": 9,
+  "name": "I. Selim",
+  "title": "Yavuz",
+  "terms": [
+   [
+    1512,
+    1520
+   ]
+  ],
+  "bio": "Çaldıran’dan sonra doğuya, Mercidâbık ve Ridâniye’den sonra Suriye ve Mısır’a genişleme.",
+  "source": "https://islamansiklopedisi.org.tr/selim-i",
+  "wikipedia": "Selim I"
+ },
+ {
+  "id": "suleyman-i",
+  "order": 10,
+  "name": "I. Süleyman",
+  "title": "Kanûnî",
+  "terms": [
+   [
+    1520,
+    1566
+   ]
+  ],
+  "bio": "Belgrad, Rodos, Budin ve Bağdat. Habsburg, Safevî ve Akdeniz cephelerinde çok yönlü mücadele.",
+  "source": "https://islamansiklopedisi.org.tr/suleyman-i",
+  "wikipedia": "Suleiman the Magnificent"
+ },
+ {
+  "id": "selim-ii",
+  "order": 11,
+  "name": "II. Selim",
+  "title": "Kıbrıs ve Tunus",
+  "terms": [
+   [
+    1566,
+    1574
+   ]
+  ],
+  "bio": "Kıbrıs ve Tunus kazanımları; İnebahtı yenilgisinden sonra donanmanın yeniden kurulması.",
+  "source": "https://islamansiklopedisi.org.tr/selim-ii",
+  "wikipedia": "Selim II"
+ },
+ {
+  "id": "murad-iii",
+  "order": 12,
+  "name": "III. Murad",
+  "title": "Doğu seferleri",
+  "terms": [
+   [
+    1574,
+    1595
+   ]
+  ],
+  "bio": "Safevî savaşlarında Kafkasya’ya uzanan, sonrasında geri çekilecek geçici kazanımlar.",
+  "source": "https://islamansiklopedisi.org.tr/murad-iii",
+  "wikipedia": "Murad III"
+ },
+ {
+  "id": "mehmed-iii",
+  "order": 13,
+  "name": "III. Mehmed",
+  "title": "Eğri ve Haçova",
+  "terms": [
+   [
+    1595,
+    1603
+   ]
+  ],
+  "bio": "Uzun Habsburg savaşı ve Celâlî hareketleri. Savaşın kazanımları kalıcı sınırlara her zaman dönüşmedi.",
+  "source": "https://islamansiklopedisi.org.tr/mehmed-iii",
+  "wikipedia": "Mehmed III"
+ },
+ {
+  "id": "ahmed-i",
+  "order": 14,
+  "name": "I. Ahmed",
+  "title": "Zitvatorok dönemi",
+  "terms": [
+   [
+    1603,
+    1617
+   ]
+  ],
+  "bio": "Zitvatorok barışı ve doğuda geri çekilme. Hanedan verasetinde yeni bir dönemin başlangıcı.",
+  "source": "https://islamansiklopedisi.org.tr/ahmed-i",
+  "wikipedia": "Ahmed I"
+ },
+ {
+  "id": "mustafa-i",
+  "order": 15,
+  "name": "I. Mustafa",
+  "title": "İki kısa saltanat",
+  "terms": [
+   [
+    1617,
+    1618
+   ],
+   [
+    1622,
+    1623
+   ]
+  ],
+  "bio": "İki kez tahta çıktı. Saray ve askerî güç odaklarının mücadeleleri belirleyici oldu.",
+  "source": "https://islamansiklopedisi.org.tr/mustafa-i",
+  "wikipedia": "Mustafa I"
+ },
+ {
+  "id": "osman-ii",
+  "order": 16,
+  "name": "II. Osman",
+  "title": "Genç Osman",
+  "terms": [
+   [
+    1618,
+    1622
+   ]
+  ],
+  "bio": "Hotin seferi ve 1622’de yeniçeri ayaklanması. Bir padişahın öldürülmesi siyasî bir kırılma yarattı.",
+  "source": "https://islamansiklopedisi.org.tr/osman-ii",
+  "wikipedia": "Osman II"
+ },
+ {
+  "id": "murad-iv",
+  "order": 17,
+  "name": "IV. Murad",
+  "title": "Bağdat’ın geri alınması",
+  "terms": [
+   [
+    1623,
+    1640
+   ]
+  ],
+  "bio": "Bağdat 1638’de geri alındı. Kasrışîrin barışı Osmanlı–Safevî sınırında uzun süreli bir çerçeve oluşturdu.",
+  "source": "https://islamansiklopedisi.org.tr/murad-iv",
+  "wikipedia": "Murad IV"
+ },
+ {
+  "id": "ibrahim",
+  "order": 18,
+  "name": "İbrahim",
+  "title": "Girit savaşının başlangıcı",
+  "terms": [
+   [
+    1640,
+    1648
+   ]
+  ],
+  "bio": "1645’te başlayan Girit savaşı Akdeniz’de uzun bir mücadeleye dönüştü.",
+  "source": "https://islamansiklopedisi.org.tr/ibrahim--padisah",
+  "wikipedia": "Ibrahim of the Ottoman Empire"
+ },
+ {
+  "id": "mehmed-iv",
+  "order": 19,
+  "name": "IV. Mehmed",
+  "title": "Avcı",
+  "terms": [
+   [
+    1648,
+    1687
+   ]
+  ],
+  "bio": "Köprülülerin yükselişi, Girit ve Podolya kazanımları; Viyana sonrasında ağır askerî kayıplar.",
+  "source": "https://islamansiklopedisi.org.tr/mehmed-iv",
+  "wikipedia": "Mehmed IV"
+ },
+ {
+  "id": "suleyman-ii",
+  "order": 20,
+  "name": "II. Süleyman",
+  "title": "Büyük savaşın içinde",
+  "terms": [
+   [
+    1687,
+    1691
+   ]
+  ],
+  "bio": "Kutsal İttifak savaşları sırasında tahta çıktı. Belgrad 1690’da geri alındı.",
+  "source": "https://islamansiklopedisi.org.tr/suleyman-ii",
+  "wikipedia": "Suleiman II"
+ },
+ {
+  "id": "ahmed-ii",
+  "order": 21,
+  "name": "II. Ahmed",
+  "title": "Salankamen sonrası",
+  "terms": [
+   [
+    1691,
+    1695
+   ]
+  ],
+  "bio": "Avusturya ve Venedik savaşları devam etti; cephelerde savunma baskısı arttı.",
+  "source": "https://islamansiklopedisi.org.tr/ahmed-ii",
+  "wikipedia": "Ahmed II"
+ },
+ {
+  "id": "mustafa-ii",
+  "order": 22,
+  "name": "II. Mustafa",
+  "title": "Karlofça",
+  "terms": [
+   [
+    1695,
+    1703
+   ]
+  ],
+  "bio": "Zenta yenilgisi ve 1699 Karlofça. Orta Avrupa’daki büyük toprak kayıpları resmileşti.",
+  "source": "https://islamansiklopedisi.org.tr/mustafa-ii",
+  "wikipedia": "Mustafa II"
+ },
+ {
+  "id": "ahmed-iii",
+  "order": 23,
+  "name": "III. Ahmed",
+  "title": "Lâle Devri",
+  "terms": [
+   [
+    1703,
+    1730
+   ]
+  ],
+  "bio": "Prut’ta Azak geri alındı; Mora geri kazanıldı. Pasarofça ile Banat ve Belgrad kaybedildi.",
+  "source": "https://islamansiklopedisi.org.tr/ahmed-iii",
+  "wikipedia": "Ahmed III"
+ },
+ {
+  "id": "mahmud-i",
+  "order": 24,
+  "name": "I. Mahmud",
+  "title": "Belgrad barışı",
+  "terms": [
+   [
+    1730,
+    1754
+   ]
+  ],
+  "bio": "1739’da Belgrad yeniden Osmanlı yönetimine döndü; doğuda 1746 barışı.",
+  "source": "https://islamansiklopedisi.org.tr/mahmud-i--osmanli",
+  "wikipedia": "Mahmud I"
+ },
+ {
+  "id": "osman-iii",
+  "order": 25,
+  "name": "III. Osman",
+  "title": "Kısa bir saltanat",
+  "terms": [
+   [
+    1754,
+    1757
+   ]
+  ],
+  "bio": "Büyük bir sınır değişiminin modellenmediği kısa dönem. İstanbul yangınları dönemin belirgin olaylarındandır.",
+  "source": "https://islamansiklopedisi.org.tr/osman-iii",
+  "wikipedia": "Osman III"
+ },
+ {
+  "id": "mustafa-iii",
+  "order": 26,
+  "name": "III. Mustafa",
+  "title": "Rusya ile savaş",
+  "terms": [
+   [
+    1757,
+    1774
+   ]
+  ],
+  "bio": "1768’de başlayan savaş; Çeşme’de donanma kaybı ve orduda reform arayışları.",
+  "source": "https://islamansiklopedisi.org.tr/mustafa-iii",
+  "wikipedia": "Mustafa III"
+ },
+ {
+  "id": "abdulhamid-i",
+  "order": 27,
+  "name": "I. Abdülhamid",
+  "title": "Kırım’ın kopuşu",
+  "terms": [
+   [
+    1774,
+    1789
+   ]
+  ],
+  "bio": "Küçük Kaynarca ile Kırım bağımsızlaştı; 1783’te Rusya tarafından ilhak edildi.",
+  "source": "https://islamansiklopedisi.org.tr/abdulhamid-i",
+  "wikipedia": "Abdul Hamid I"
+ },
+ {
+  "id": "selim-iii",
+  "order": 28,
+  "name": "III. Selim",
+  "title": "Nizâm-ı Cedîd",
+  "terms": [
+   [
+    1789,
+    1807
+   ]
+  ],
+  "bio": "Reform girişimleri, Yaş barışı ve Mısır’ın Fransız işgali.",
+  "source": "https://islamansiklopedisi.org.tr/selim-iii",
+  "wikipedia": "Selim III"
+ },
+ {
+  "id": "mustafa-iv",
+  "order": 29,
+  "name": "IV. Mustafa",
+  "title": "1807–1808 krizi",
+  "terms": [
+   [
+    1807,
+    1808
+   ]
+  ],
+  "bio": "Kabakçı ayaklanması sonrasında tahta çıktı. Alemdar’ın müdahalesiyle saltanatı sona erdi.",
+  "source": "https://islamansiklopedisi.org.tr/mustafa-iv",
+  "wikipedia": "Mustafa IV"
+ },
+ {
+  "id": "mahmud-ii",
+  "order": 30,
+  "name": "II. Mahmud",
+  "title": "Merkezîleşme",
+  "terms": [
+   [
+    1808,
+    1839
+   ]
+  ],
+  "bio": "Yeniçeri Ocağı’nın kaldırılması, Yunan bağımsızlığı, Cezayir’in kaybı ve Mısır krizi.",
+  "source": "https://islamansiklopedisi.org.tr/mahmud-ii--osmanli",
+  "wikipedia": "Mahmud II"
+ },
+ {
+  "id": "abdulmecid",
+  "order": 31,
+  "name": "Abdülmecid",
+  "title": "Tanzimat",
+  "terms": [
+   [
+    1839,
+    1861
+   ]
+  ],
+  "bio": "Tanzimat ve Islahat fermanları; Kırım Savaşı. İmparatorluğun idarî ve hukukî dönüşümü.",
+  "source": "https://islamansiklopedisi.org.tr/abdulmecid",
+  "wikipedia": "Abdulmejid I"
+ },
+ {
+  "id": "abdulaziz",
+  "order": 32,
+  "name": "Abdülaziz",
+  "title": "Demiryolları ve donanma",
+  "terms": [
+   [
+    1861,
+    1876
+   ]
+  ],
+  "bio": "Ulaştırma yatırımları ve donanma büyümesi; artan borçlanma ve Balkan krizleri.",
+  "source": "https://islamansiklopedisi.org.tr/abdulaziz",
+  "wikipedia": "Abdulaziz"
+ },
+ {
+  "id": "murad-v",
+  "order": 33,
+  "name": "V. Murad",
+  "title": "93 günlük saltanat",
+  "terms": [
+   [
+    1876,
+    1876
+   ]
+  ],
+  "bio": "30 Mayıs–31 Ağustos 1876. Harita yıl ölçeğindedir; aynı yıldaki taht değişimlerinde seçilen padişah esas alınır.",
+  "source": "https://islamansiklopedisi.org.tr/murad-v",
+  "wikipedia": "Murad V"
+ },
+ {
+  "id": "abdulhamid-ii",
+  "order": 34,
+  "name": "II. Abdülhamid",
+  "title": "Meşrutiyet ve Berlin",
+  "terms": [
+   [
+    1876,
+    1909
+   ]
+  ],
+  "bio": "1876 anayasası, 1877–1878 savaşı ve Berlin düzeni; Mısır ve Tunus’ta yabancı denetim.",
+  "source": "https://islamansiklopedisi.org.tr/abdulhamid-ii",
+  "wikipedia": "Abdul Hamid II"
+ },
+ {
+  "id": "mehmed-v",
+  "order": 35,
+  "name": "V. Mehmed",
+  "title": "Reşad",
+  "terms": [
+   [
+    1909,
+    1918
+   ]
+  ],
+  "bio": "Trablusgarp ve Balkan savaşları; I. Dünya Savaşı ve imparatorluğun son büyük demografik kırılmaları.",
+  "source": "https://islamansiklopedisi.org.tr/mehmed-v",
+  "wikipedia": "Mehmed V"
+ },
+ {
+  "id": "mehmed-vi",
+  "order": 36,
+  "name": "VI. Mehmed",
+  "title": "Vahdeddin",
+  "terms": [
+   [
+    1918,
+    1922
+   ]
+  ],
+  "bio": "Mütareke, işgaller ve Ankara hükûmetinin yükselişi. Saltanat 1 Kasım 1922’de kaldırıldı.",
+  "source": "https://islamansiklopedisi.org.tr/mehmed-vi",
+  "wikipedia": "Mehmed VI"
+ }
+]

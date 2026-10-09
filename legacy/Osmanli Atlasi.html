@@ -1,0 +1,108 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Osmanlı Atlası · 1299–1922</title>
+<link rel="stylesheet" href="classical.css">
+<link rel="stylesheet" href="vendor/maplibre-gl.css">
+<link rel="stylesheet" href="atlas.css">
+<script src="https://unpkg.com/lucide@0.460.0/dist/umd/lucide.min.js"></script>
+<script src="vendor/maplibre-gl.js"></script>
+<script src="vendor/earcut.min.js"></script>
+</head>
+<body>
+<template id="__bundler_thumbnail"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><rect width="100" height="100" fill="#15120f"></rect><g fill="none" stroke="#d9a75a" stroke-width="2.4"><rect x="32" y="32" width="36" height="36"></rect><rect x="32" y="32" width="36" height="36" transform="rotate(45 50 50)"></rect></g></svg></template>
+<div class="app" id="app" data-view="stage" data-folio="0" data-playing="0">
+<div id="basemap" class="basemap" role="img" aria-label="Kronolojik Osmanlı haritası"></div>
+<nav id="region-list" class="sr-only" aria-label="Haritadaki bölgeler"></nav>
+<svg id="labels" class="map-labels"><g id="screen"></g></svg>
+<div class="vignette" aria-hidden="true"></div>
+<header class="topbar" id="topbar">
+<a class="brand" href="#" data-action="home" aria-label="Osmanlı Atlası, başa dön"><svg class="star" viewBox="0 0 24 24" aria-hidden="true"><rect x="5" y="5" width="14" height="14"></rect><rect x="5" y="5" width="14" height="14" transform="rotate(45 12 12)"></rect></svg><span class="brand-name">Osmanlı Atlası</span><span class="brand-years">1299 — 1922</span></a>
+<nav class="modes" aria-label="Görünüm">
+<button data-action="view" data-view="stage" aria-pressed="true">Sahne</button>
+<button data-action="view" data-view="silsile" aria-pressed="false">Silsile</button>
+<button data-action="view" data-view="kisiler" aria-pressed="false">Kişiler</button>
+<button data-action="view" data-view="duello" aria-pressed="false">Düello</button>
+</nav>
+<div class="top-actions"><button data-action="sources">Kaynaklar</button><button data-action="guide">Rehber</button><button class="icon-btn" id="folio-toggle" data-action="folio" aria-pressed="false" aria-label="Dosyayı aç veya kapat"><i data-lucide="book-open"></i></button></div>
+</header>
+<section class="titlecard" id="titlecard" aria-live="polite">
+<button class="tc-face" id="tc-face" data-action="active-sultan" aria-label="Tahttaki padişahın dosyası"></button>
+<div class="tc-text"><div class="kicker" id="tc-kicker"></div><div class="tc-year" id="tc-year">1299</div><div class="tc-name"><span id="tc-name"></span><em id="tc-epithet"></em></div><div class="tc-era" id="tc-era"></div></div>
+</section>
+<section class="lens" id="lens">
+<div class="seg-d" role="group" aria-label="Harita merceği"><button data-action="mode" data-mode="borders" aria-pressed="true">Siyasî sınırlar</button><button data-action="mode" data-mode="movement" aria-pressed="false">Toprak hareketleri</button><button data-action="mode" data-mode="ethnicity" aria-pressed="false">Topluluklar</button></div>
+<div class="metric"><span class="metric-approx">≈</span><span class="metric-num" id="m-num">0</span><span class="metric-unit" id="m-unit">km²</span></div>
+<div class="metric-label">haritada modellenen alan<br><span id="m-break"></span></div>
+<label class="chk-d"><input type="checkbox" id="dep" checked><span>Bağlı ve özerk bölgeler</span></label>
+</section>
+<div class="mapfoot"><div class="groups" id="groups" hidden></div><div class="note" id="note"></div><div class="legend" id="legend"></div></div>
+<div class="zoom" role="group" aria-label="Harita görünümü"><button data-action="zoom-in" aria-label="Yakınlaştır"><i data-lucide="plus"></i></button><button data-action="zoom-out" aria-label="Uzaklaştır"><i data-lucide="minus"></i></button><button data-action="fit" aria-label="Tamamını göster"><i data-lucide="scan"></i></button></div>
+<section class="caption" id="caption" data-action="caption" aria-live="polite"></section>
+<button class="skip" id="skip" data-action="skip" hidden>Açılışı atla</button>
+<aside class="folio" id="folio" aria-label="Dosya">
+<div class="folio-bar"><button class="f-back" id="folio-back" data-action="close-detail" aria-label="Dönem dosyasına dön" hidden><i data-lucide="arrow-left"></i></button><span class="kicker" id="folio-kicker">DÖNEM DOSYASI</span><button class="f-close" data-action="folio" aria-label="Dosyayı kapat"><i data-lucide="x"></i></button></div>
+<div class="folio-body" id="folio-body"></div>
+</aside>
+<footer class="dock" id="dock">
+<div class="controls">
+<button class="play" data-action="play" aria-label="Oynat veya duraklat"><span class="i-play"><i data-lucide="play"></i></span><span class="i-pause"><i data-lucide="pause"></i></span></button>
+<div class="ctl-col">
+<div class="ctl-row"><button class="ctl" data-action="prev" aria-label="Önceki dönüm noktası"><i data-lucide="skip-back"></i></button><button class="ctl" data-action="next" aria-label="Sonraki dönüm noktası"><i data-lucide="skip-forward"></i></button><div class="speed" role="group" aria-label="Hız"><button data-action="speed" data-speed="1">1×</button><button data-action="speed" data-speed="3">3×</button><button data-action="speed" data-speed="10">10×</button></div></div>
+<label class="chk-d sm"><input type="checkbox" id="cam" checked><span>Kamera olayları izlesin</span></label>
+<div class="scope-chip" id="scope-chip"></div>
+</div>
+</div>
+<div class="track" id="track">
+<div class="ticks" id="ticks"></div>
+<svg class="ribbon" id="ribbon" viewBox="0 0 1000 60" preserveAspectRatio="none" aria-label="Modellenen alanın zaman içindeki değişimi"></svg>
+<div class="marks" id="marks"></div>
+<div class="faces" id="faces"></div>
+<div class="eras" id="eras"></div>
+<div class="dim dim-l" id="dim-l"></div><div class="dim dim-r" id="dim-r"></div>
+<div class="basehead" id="basehead" hidden></div>
+<div class="playhead" id="playhead"><span id="ph-year">1299</span></div>
+<div class="dtip" id="dtip" hidden></div>
+</div>
+</footer>
+<section class="overlay" data-for="silsile" aria-label="Silsile">
+<header class="ov-head"><div><span class="kicker">Silsile · 1299–1922</span><h2 class="ov-title">Otuz altı padişah</h2><p class="ov-sub">Her saltanat, haritadaki en geniş anıyla birlikte. Bir portreye dokun, sahne o saltanata açılsın.</p></div><button class="btn btn-ghost-d" data-action="view" data-view="stage"><i data-lucide="arrow-left"></i>Sahneye dön</button></header>
+<div class="sil" id="sil-body"></div>
+</section>
+<section class="overlay" data-for="kisiler" aria-label="Kişiler">
+<header class="ov-head"><div><span class="kicker">Kişiler · 1250–1964</span><h2 class="ov-title">Kırk hayat, altı yüzyıl</h2><p class="ov-sub">Çizgi doğumdan ölüme uzanır; portre, haritanın o kişiye odaklandığı yılda durur. Üst şerit saltanatları gösterir.</p></div><button class="btn btn-ghost-d" data-action="view" data-view="stage"><i data-lucide="arrow-left"></i>Sahneye dön</button></header>
+<div class="lf" id="lf-body"></div>
+</section>
+<section class="overlay" data-for="duello" aria-label="Düello">
+<header class="ov-head"><div><span class="kicker">Düello</span><h2 class="ov-title">İki saltanat, yan yana</h2><p class="ov-sub">İki padişahı seç; süre, alan ve haritadaki net değişim karşılaştırılsın.</p></div><button class="btn btn-ghost-d" data-action="view" data-view="stage"><i data-lucide="arrow-left"></i>Sahneye dön</button></header>
+<div class="du" id="du-body"></div>
+</section>
+<div class="tip" id="tip" hidden></div>
+</div>
+<div class="curtain" id="curtain">
+<div class="cur cur-l"></div><div class="cur cur-r"></div>
+<div class="prologue" id="prologue">
+<span class="kicker">Bir keşif atlası</span>
+<h1 class="pro-title">Osmanlı Atlası</h1>
+<div class="emblem-wrap"><svg class="emblem" id="emblem" viewBox="0 0 240 240" aria-hidden="true"><circle cx="120" cy="120" r="114" pathLength="1"></circle><rect x="48" y="48" width="144" height="144" pathLength="1"></rect><rect x="48" y="48" width="144" height="144" transform="rotate(45 120 120)" pathLength="1"></rect><circle cx="120" cy="120" r="62" pathLength="1"></circle></svg><div class="pro-year" id="pro-year">1299</div></div>
+<div class="pro-bar"><span id="pro-fill"></span></div>
+<p class="pro-sub" id="pro-sub">Altı yüzyıl yükleniyor</p>
+<ul class="manifest" id="manifest"></ul>
+<button class="enter" id="enter" data-action="enter" hidden>Perdeyi aç</button>
+</div>
+</div>
+<dialog class="info" id="info" aria-label="Bilgi"><button class="i-close" data-action="close-info" aria-label="Kapat"><i data-lucide="x"></i></button><div id="info-body"></div></dialog>
+<script src="data.js"></script>
+<script src="model.js"></script>
+<script src="geography.js"></script>
+<script src="core.js"></script>
+<script src="stage.js"></script>
+<script src="dock.js"></script>
+<script src="folio.js"></script>
+<script src="overlays.js"></script>
+<script src="main.js"></script>
+<script src="loader.js"></script>
+</body>
+</html>

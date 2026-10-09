@@ -1,0 +1,19 @@
+{
+ "_doc": "Ties between polities that Cliopatria draws as separate states. `polity` is a Cliopatria Name. `kind`: vassal (tributary, own ruler) or autonomy (Ottoman province under a local dynasty). Years are inclusive. Approximate; each row cites the TDV İslâm Ansiklopedisi article it rests on.",
+ "relations": [
+  { "polity": "Serbian Despots", "kind": "vassal", "from": 1389, "to": 1421, "source": "https://islamansiklopedisi.org.tr/sirbistan" },
+  { "polity": "Principality of Wallachia", "kind": "vassal", "from": 1417, "to": 1858, "source": "https://islamansiklopedisi.org.tr/eflak" },
+  { "polity": "Principality of Moldavia", "kind": "vassal", "from": 1456, "to": 1858, "source": "https://islamansiklopedisi.org.tr/bogdan" },
+  { "polity": "United Principalities of Moldavia and Wallachia", "kind": "autonomy", "from": 1859, "to": 1877, "source": "https://islamansiklopedisi.org.tr/romanya" },
+  { "polity": "Republic of Ragusa", "kind": "vassal", "from": 1458, "to": 1806, "source": "https://islamansiklopedisi.org.tr/dubrovnik" },
+  { "polity": "Crimean Khanate", "kind": "vassal", "from": 1478, "to": 1774, "source": "https://islamansiklopedisi.org.tr/kirim-hanligi" },
+  { "polity": "Beylik of Dulkadir", "kind": "vassal", "from": 1480, "to": 1515, "source": "https://islamansiklopedisi.org.tr/dulkadirogullari" },
+  { "polity": "Principality of Transylvania", "kind": "vassal", "from": 1570, "to": 1687, "source": "https://islamansiklopedisi.org.tr/erdel" },
+  { "polity": "Regency of Algiers", "kind": "autonomy", "from": 1706, "to": 1830, "source": "https://islamansiklopedisi.org.tr/cezayir" },
+  { "polity": "Beylik of Tunis", "kind": "autonomy", "from": 1706, "to": 1881, "source": "https://islamansiklopedisi.org.tr/tunus" },
+  { "polity": "Karamanli Dynasty", "kind": "autonomy", "from": 1713, "to": 1835, "source": "https://islamansiklopedisi.org.tr/karamanlilar" },
+  { "polity": "Muhammad Ali dynasty", "kind": "autonomy", "from": 1805, "to": 1865, "source": "https://islamansiklopedisi.org.tr/kavalali-mehmed-ali-pasa" },
+  { "polity": "Khedivate of Egypt", "kind": "autonomy", "from": 1866, "to": 1884, "source": "https://islamansiklopedisi.org.tr/misir" },
+  { "polity": "Principality of Bulgaria", "kind": "autonomy", "from": 1880, "to": 1908, "source": "https://islamansiklopedisi.org.tr/bulgaristan" }
+ ]
+}

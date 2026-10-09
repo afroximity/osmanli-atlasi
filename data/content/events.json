@@ -1,0 +1,1051 @@
+[
+ {
+  "id": "e000",
+  "year": 1299,
+  "title": "Bir uç beyliğinin başlangıcı",
+  "type": "Kuruluş",
+  "region": "core",
+  "text": "1299 geleneksel tarihlemedir; 1302 Bapheus zaferi belgelenebilir yükselişin önemli eşiğidir.",
+  "source": "https://islamansiklopedisi.org.tr/osman-i"
+ },
+ {
+  "id": "e001",
+  "year": 1302,
+  "title": "Bapheus / Koyunhisar",
+  "type": "Savaş",
+  "region": "core",
+  "text": "Bizans ordusuna karşı zafer, Osman Bey’in bölgesel gücünü pekiştirdi.",
+  "source": "https://islamansiklopedisi.org.tr/osman-i"
+ },
+ {
+  "id": "e002",
+  "year": 1326,
+  "title": "Bursa’nın alınması",
+  "type": "Fetih",
+  "region": "bursa",
+  "text": "Bursa, Osmanlı yönetiminin başlıca merkezi oldu.",
+  "source": "https://islamansiklopedisi.org.tr/orhan",
+  "wikipedia": "Bursa"
+ },
+ {
+  "id": "e003",
+  "year": 1331,
+  "title": "İznik’in alınması",
+  "type": "Fetih",
+  "region": "iznik",
+  "text": "Uzun kuşatma sonrası İznik Osmanlı yönetimine geçti.",
+  "source": "https://islamansiklopedisi.org.tr/orhan"
+ },
+ {
+  "id": "e004",
+  "year": 1337,
+  "title": "İzmit’in alınması",
+  "type": "Fetih",
+  "region": "iznik",
+  "text": "Marmara’nın doğusunda Bizans’ın önemli bir merkezi daha kaybedildi.",
+  "source": "https://islamansiklopedisi.org.tr/orhan"
+ },
+ {
+  "id": "e005",
+  "year": 1345,
+  "title": "Karesi toprakları",
+  "type": "Fetih",
+  "region": "karesi",
+  "text": "Karesi Beyliği’nin katılması, kıyı ve denizcilik birikimini genişletti. Tarihleme yaklaşık.",
+  "source": "https://islamansiklopedisi.org.tr/orhan"
+ },
+ {
+  "id": "e006",
+  "year": 1354,
+  "title": "Gelibolu’da kalıcı köprübaşı",
+  "type": "Fetih",
+  "region": "thrace",
+  "text": "Rumeli’de sürekli askerî ve idarî varlığın önemli başlangıçlarından.",
+  "source": "https://islamansiklopedisi.org.tr/orhan"
+ },
+ {
+  "id": "e007",
+  "year": 1361,
+  "title": "Edirne’nin alınması",
+  "type": "Fetih",
+  "region": "thrace",
+  "text": "Edirne Rumeli siyasetinin merkezi oldu. Fetih yılı için 1361 ve farklı tarihler tartışılır.",
+  "source": "https://islamansiklopedisi.org.tr/murad-i",
+  "wikipedia": "Edirne"
+ },
+ {
+  "id": "e008",
+  "year": 1371,
+  "title": "Çirmen Muharebesi",
+  "type": "Savaş",
+  "region": "macedonia",
+  "text": "Meriç kıyısındaki zafer, Balkanlarda tâbilik ilişkilerini genişletti.",
+  "source": "https://islamansiklopedisi.org.tr/murad-i"
+ },
+ {
+  "id": "e009",
+  "year": 1389,
+  "title": "I. Kosova Muharebesi",
+  "type": "Savaş",
+  "region": "serbia",
+  "text": "I. Murad öldü; Balkan siyasetinde Osmanlı üstünlüğü güçlendi.",
+  "source": "https://islamansiklopedisi.org.tr/murad-i",
+  "wikipedia": "Battle of Kosovo"
+ },
+ {
+  "id": "e010",
+  "year": 1390,
+  "title": "Batı Anadolu beylikleri",
+  "type": "Fetih",
+  "region": "west-anatolia",
+  "text": "Aydın, Saruhan ve Menteşe çevrelerinde genişleme; 1402 sonrasında önemli kısmı geri çevrildi.",
+  "source": "https://islamansiklopedisi.org.tr/bayezid-i"
+ },
+ {
+  "id": "e011",
+  "year": 1393,
+  "title": "Tırnova’nın alınması",
+  "type": "Fetih",
+  "region": "bulgaria",
+  "text": "Bulgar topraklarında doğrudan yönetimin genişlemesi.",
+  "source": "https://islamansiklopedisi.org.tr/bayezid-i"
+ },
+ {
+  "id": "e012",
+  "year": 1396,
+  "title": "Niğbolu Muharebesi",
+  "type": "Savaş",
+  "region": "bulgaria",
+  "text": "Haçlı ordusuna karşı zafer. Bulgaristan’da Osmanlı hâkimiyeti pekişti.",
+  "source": "https://islamansiklopedisi.org.tr/bayezid-i",
+  "wikipedia": "Battle of Nicopolis"
+ },
+ {
+  "id": "e013",
+  "year": 1397,
+  "title": "Karaman’a genişleme",
+  "type": "Fetih",
+  "region": "central-anatolia",
+  "text": "Karaman sahasında geçici Osmanlı hâkimiyeti.",
+  "source": "https://islamansiklopedisi.org.tr/bayezid-i"
+ },
+ {
+  "id": "e014",
+  "year": 1402,
+  "title": "Ankara ve Fetret Devri",
+  "type": "Kayıp",
+  "region": "north-anatolia",
+  "text": "Timur’un zaferi; Anadolu beylikleri yeniden ortaya çıktı. 1402–1413’te tek bir padişah yoktu.",
+  "source": "https://islamansiklopedisi.org.tr/bayezid-i",
+  "wikipedia": "Battle of Ankara"
+ },
+ {
+  "id": "e015",
+  "year": 1413,
+  "title": "Fetret’in sona ermesi",
+  "type": "Siyaset",
+  "region": "thrace",
+  "text": "Çelebi Mehmed hanedan rekabetini sonuçlandırdı.",
+  "source": "https://islamansiklopedisi.org.tr/mehmed-i"
+ },
+ {
+  "id": "e016",
+  "year": 1416,
+  "title": "Şeyh Bedreddin hareketleri",
+  "type": "Siyaset",
+  "region": "thrace",
+  "text": "Börklüce ve Torlak hareketleriyle birlikte, Fetret sonrası toplumun çatışmalarını gösterir.",
+  "source": "https://islamansiklopedisi.org.tr/bedreddin-simavi"
+ },
+ {
+  "id": "e017",
+  "year": 1430,
+  "title": "Selânik’in alınması",
+  "type": "Fetih",
+  "region": "macedonia",
+  "text": "Venedik yönetimindeki liman Osmanlılar tarafından alındı.",
+  "source": "https://islamansiklopedisi.org.tr/selanik"
+ },
+ {
+  "id": "e018",
+  "year": 1444,
+  "title": "Varna Muharebesi",
+  "type": "Savaş",
+  "region": "bulgaria",
+  "text": "II. Murad ordunun başına döndü; Haçlı seferi başarısız oldu.",
+  "source": "https://islamansiklopedisi.org.tr/murad-ii",
+  "wikipedia": "Battle of Varna"
+ },
+ {
+  "id": "e019",
+  "year": 1448,
+  "title": "II. Kosova Muharebesi",
+  "type": "Savaş",
+  "region": "serbia",
+  "text": "Balkanlardaki Osmanlı askerî konumu güçlendi.",
+  "source": "https://islamansiklopedisi.org.tr/murad-ii"
+ },
+ {
+  "id": "e020",
+  "year": 1453,
+  "title": "İstanbul’un fethi",
+  "type": "Fetih",
+  "region": "istanbul",
+  "text": "Bizans başkenti alındı; şehir Osmanlı başkentine dönüştürüldü.",
+  "source": "https://islamansiklopedisi.org.tr/mehmed-ii",
+  "wikipedia": "Fall of Constantinople"
+ },
+ {
+  "id": "e021",
+  "year": 1459,
+  "title": "Sırbistan’da doğrudan yönetim",
+  "type": "Fetih",
+  "region": "serbia",
+  "text": "Semendire’nin düşmesiyle Sırp despotluğunun sonu.",
+  "source": "https://islamansiklopedisi.org.tr/sirbistan"
+ },
+ {
+  "id": "e022",
+  "year": 1460,
+  "title": "Mora’nın alınması",
+  "type": "Fetih",
+  "region": "morea",
+  "text": "Mora despotluğunun büyük bölümü Osmanlı yönetimine geçti.",
+  "source": "https://islamansiklopedisi.org.tr/mehmed-ii"
+ },
+ {
+  "id": "e023",
+  "year": 1461,
+  "title": "Trabzon’un alınması",
+  "type": "Fetih",
+  "region": "pontus",
+  "text": "Trabzon İmparatorluğu sona erdi.",
+  "source": "https://islamansiklopedisi.org.tr/trabzon"
+ },
+ {
+  "id": "e024",
+  "year": 1463,
+  "title": "Bosna seferi",
+  "type": "Fetih",
+  "region": "bosnia",
+  "text": "Bosna Krallığı sona erdi; bölgesel hâkimiyet sonraki seferlerle pekişti.",
+  "source": "https://islamansiklopedisi.org.tr/bosna-hersek"
+ },
+ {
+  "id": "e025",
+  "year": 1468,
+  "title": "Karaman’ın katılması",
+  "type": "Fetih",
+  "region": "central-anatolia",
+  "text": "Karaman sahasında kalıcı Osmanlı yönetimi genişledi.",
+  "source": "https://islamansiklopedisi.org.tr/karamanogullari"
+ },
+ {
+  "id": "e026",
+  "year": 1473,
+  "title": "Otlukbeli Muharebesi",
+  "type": "Savaş",
+  "region": "east-anatolia",
+  "text": "Akkoyunlu Uzun Hasan’a karşı zafer.",
+  "source": "https://islamansiklopedisi.org.tr/otlukbeli-savasi"
+ },
+ {
+  "id": "e027",
+  "year": 1475,
+  "title": "Kırım ve Ceneviz kolonileri",
+  "type": "Fetih",
+  "region": "crimea",
+  "text": "Kıyı kolonilerinde doğrudan yönetim, Kırım Hanlığı’nda Osmanlı tâbiliği; aynı yönetim biçimi değiller.",
+  "source": "https://islamansiklopedisi.org.tr/kirim"
+ },
+ {
+  "id": "e028",
+  "year": 1479,
+  "title": "Arnavutluk’ta genişleme",
+  "type": "Fetih",
+  "region": "albania",
+  "text": "İşkodra’nın alınması Venedik ile uzun savaşı sonuçlandıran kazanımlardandı.",
+  "source": "https://islamansiklopedisi.org.tr/arnavutluk"
+ },
+ {
+  "id": "e029",
+  "year": 1484,
+  "title": "Kili ve Akkirman",
+  "type": "Fetih",
+  "region": "bessarabia",
+  "text": "Karadeniz’in kuzeybatısında iki stratejik liman alındı.",
+  "source": "https://islamansiklopedisi.org.tr/bayezid-ii"
+ },
+ {
+  "id": "e030",
+  "year": 1492,
+  "title": "Sefarad göçleri",
+  "type": "Toplum",
+  "region": "istanbul",
+  "text": "İberya’dan kovulan Yahudi topluluklarının bir bölümü Osmanlı şehirlerine yerleşti; göç tek bir yılda tamamlanmadı.",
+  "source": "https://islamansiklopedisi.org.tr/yahudilik"
+ },
+ {
+  "id": "e031",
+  "year": 1514,
+  "title": "Çaldıran Muharebesi",
+  "type": "Savaş",
+  "region": "east-anatolia",
+  "text": "Safevîlere karşı zafer. Doğu Anadolu’da ittifaklar ve yönetim düzenlemeleri gelişti.",
+  "source": "https://islamansiklopedisi.org.tr/selim-i",
+  "wikipedia": "Battle of Chaldiran"
+ },
+ {
+  "id": "e032",
+  "year": 1515,
+  "title": "Dulkadır sahasının katılması",
+  "type": "Fetih",
+  "region": "east-anatolia",
+  "text": "Turnadağ seferi sonrası güneydoğu Anadolu’da hâkimiyet genişledi.",
+  "source": "https://islamansiklopedisi.org.tr/dulkadirogullari"
+ },
+ {
+  "id": "e033",
+  "year": 1516,
+  "title": "Mercidâbık ve Suriye",
+  "type": "Fetih",
+  "region": "syria",
+  "text": "Memlük ordusu yenildi; Şam ve çevresi Osmanlı yönetimine geçti.",
+  "source": "https://islamansiklopedisi.org.tr/selim-i",
+  "wikipedia": "Battle of Marj Dabiq"
+ },
+ {
+  "id": "e034",
+  "year": 1517,
+  "title": "Mısır ve Hicaz",
+  "type": "Fetih",
+  "region": "egypt",
+  "text": "Ridâniye sonrası Mısır alındı. Hicaz’da yerel şeriflik üzerinden Osmanlı üst egemenliği tanındı.",
+  "source": "https://islamansiklopedisi.org.tr/selim-i",
+  "wikipedia": "Battle of Ridaniya"
+ },
+ {
+  "id": "e035",
+  "year": 1521,
+  "title": "Belgrad’ın alınması",
+  "type": "Fetih",
+  "region": "belgrade",
+  "text": "Tuna–Sava hattında stratejik bir üs elde edildi.",
+  "source": "https://islamansiklopedisi.org.tr/belgrad",
+  "wikipedia": "Siege of Belgrade (1521)"
+ },
+ {
+  "id": "e036",
+  "year": 1522,
+  "title": "Rodos’un alınması",
+  "type": "Fetih",
+  "region": "rhodes",
+  "text": "Şövalyelerin adadan ayrılmasıyla Doğu Akdeniz’de Osmanlı denetimi güçlendi.",
+  "source": "https://islamansiklopedisi.org.tr/rodos",
+  "wikipedia": "Siege of Rhodes (1522)"
+ },
+ {
+  "id": "e037",
+  "year": 1526,
+  "title": "Mohaç Muharebesi",
+  "type": "Savaş",
+  "region": "hungary",
+  "text": "Macar ordusu yenildi. 1526 zaferi, bütün Macaristan’ın doğrudan ilhakı demek değildir.",
+  "source": "https://islamansiklopedisi.org.tr/mohac-muharebesi",
+  "wikipedia": "Battle of Mohács"
+ },
+ {
+  "id": "e038",
+  "year": 1529,
+  "title": "Viyana kuşatması",
+  "type": "Savaş",
+  "region": "hungary",
+  "text": "Şehir alınamadı. Harita Viyana’yı Osmanlı toprağı olarak göstermez.",
+  "source": "https://islamansiklopedisi.org.tr/suleyman-i",
+  "wikipedia": "Siege of Vienna (1529)"
+ },
+ {
+  "id": "e039",
+  "year": 1529,
+  "title": "Cezayir’de Osmanlı bağlantısı",
+  "type": "Siyaset",
+  "region": "algeria",
+  "text": "Barbaros’un güçlenmesiyle Cezayir’de Osmanlı egemenlik ağı kuruldu; tarihleme kademeli bir süreci özetler.",
+  "source": "https://islamansiklopedisi.org.tr/cezayir"
+ },
+ {
+  "id": "e040",
+  "year": 1534,
+  "title": "Bağdat’ın alınması",
+  "type": "Fetih",
+  "region": "iraq",
+  "text": "Irakeyn seferi ile Bağdat Osmanlı yönetimine geçti.",
+  "source": "https://islamansiklopedisi.org.tr/suleyman-i"
+ },
+ {
+  "id": "e041",
+  "year": 1538,
+  "title": "Preveze Deniz Muharebesi",
+  "type": "Savaş",
+  "region": "epirus",
+  "text": "Barbaros’un zaferi Akdeniz’de deniz gücü dengesini etkiledi.",
+  "source": "https://islamansiklopedisi.org.tr/preveze-deniz-muharebesi",
+  "wikipedia": "Battle of Preveza"
+ },
+ {
+  "id": "e042",
+  "year": 1538,
+  "title": "Yemen’de Osmanlı varlığı",
+  "type": "Fetih",
+  "region": "yemen",
+  "text": "Hadım Süleyman Paşa’nın seferi; iç bölgelerde denetim sürekli ve eşit değildi.",
+  "source": "https://islamansiklopedisi.org.tr/yemen"
+ },
+ {
+  "id": "e043",
+  "year": 1541,
+  "title": "Budin eyaleti ve Erdel",
+  "type": "Fetih",
+  "region": "hungary",
+  "text": "Orta Macaristan’da doğrudan yönetim, Erdel’de bağlı prenslik düzeni.",
+  "source": "https://islamansiklopedisi.org.tr/macaristan"
+ },
+ {
+  "id": "e044",
+  "year": 1551,
+  "title": "Trablusgarp’ın alınması",
+  "type": "Fetih",
+  "region": "tripoli",
+  "text": "Turgut Reis’in de katıldığı seferle liman ve kıyı sahası alındı.",
+  "source": "https://islamansiklopedisi.org.tr/trablusgarp"
+ },
+ {
+  "id": "e045",
+  "year": 1552,
+  "title": "Temeşvar ve Banat",
+  "type": "Fetih",
+  "region": "banat",
+  "text": "Temeşvar merkezli Osmanlı eyaleti oluşturuldu.",
+  "source": "https://islamansiklopedisi.org.tr/temesvar"
+ },
+ {
+  "id": "e046",
+  "year": 1555,
+  "title": "Amasya barışı",
+  "type": "Antlaşma",
+  "region": "east-anatolia",
+  "text": "Osmanlı–Safevî ilişkilerinde ilk kapsamlı barış düzeni.",
+  "source": "https://islamansiklopedisi.org.tr/amasya-antlasmasi"
+ },
+ {
+  "id": "e047",
+  "year": 1557,
+  "title": "Süleymaniye ve Habeş eyaleti",
+  "type": "Kültür",
+  "region": "istanbul",
+  "text": "Süleymaniye tamamlandı; aynı dönemde Kızıldeniz kıyısında Habeş eyaleti kuruldu.",
+  "source": "https://islamansiklopedisi.org.tr/sinan",
+  "wikipedia": "Süleymaniye Mosque"
+ },
+ {
+  "id": "e048",
+  "year": 1566,
+  "title": "Zigetvar ve Kanûnî’nin ölümü",
+  "type": "Savaş",
+  "region": "hungary",
+  "text": "Zigetvar alındı; Kanûnî sefer sırasında öldü.",
+  "source": "https://islamansiklopedisi.org.tr/suleyman-i",
+  "wikipedia": "Siege of Szigetvár"
+ },
+ {
+  "id": "e049",
+  "year": 1571,
+  "title": "Kıbrıs’ın alınması",
+  "type": "Fetih",
+  "region": "cyprus",
+  "text": "Lefkoşa ve Mağusa’nın düşmesiyle adada Osmanlı yönetimi kuruldu.",
+  "source": "https://islamansiklopedisi.org.tr/kibris",
+  "wikipedia": "Ottoman conquest of Cyprus"
+ },
+ {
+  "id": "e050",
+  "year": 1571,
+  "title": "İnebahtı Deniz Muharebesi",
+  "type": "Savaş",
+  "region": "morea",
+  "text": "Osmanlı donanması ağır kayıp verdi. Deniz yenilgisi burada otomatik kara kaybı olarak işlenmez.",
+  "source": "https://islamansiklopedisi.org.tr/inebahti-deniz-savasi",
+  "wikipedia": "Battle of Lepanto"
+ },
+ {
+  "id": "e051",
+  "year": 1574,
+  "title": "Tunus’un alınması",
+  "type": "Fetih",
+  "region": "tunisia",
+  "text": "İspanyol garnizonuna son verildi.",
+  "source": "https://islamansiklopedisi.org.tr/tunus"
+ },
+ {
+  "id": "e052",
+  "year": 1578,
+  "title": "Kafkasya seferleri",
+  "type": "Fetih",
+  "region": "caucasus",
+  "text": "Gürcistan sahasında ilerleme; 1590 barışı daha geniş geçici kazanımları tanıdı.",
+  "source": "https://islamansiklopedisi.org.tr/murad-iii"
+ },
+ {
+  "id": "e053",
+  "year": 1590,
+  "title": "Ferhad Paşa barışı",
+  "type": "Antlaşma",
+  "region": "azerbaijan",
+  "text": "Kafkasya ve Azerbaycan’da Osmanlı kazanımları tanındı; 1603 sonrası önemli kısmı kaybedildi.",
+  "source": "https://islamansiklopedisi.org.tr/ferhad-pasa-antlasmasi"
+ },
+ {
+  "id": "e054",
+  "year": 1596,
+  "title": "Eğri ve Haçova",
+  "type": "Savaş",
+  "region": "hungary",
+  "text": "Eğri alındı, Haçova’da Habsburg ordusu yenildi.",
+  "source": "https://islamansiklopedisi.org.tr/mehmed-iii"
+ },
+ {
+  "id": "e055",
+  "year": 1603,
+  "title": "Safevîlerin geri kazanımları",
+  "type": "Kayıp",
+  "region": "azerbaijan",
+  "text": "Şah Abbas’ın karşı taarruzu; geçici doğu kazanımlarının geri çekilmesi.",
+  "source": "https://islamansiklopedisi.org.tr/ahmed-i"
+ },
+ {
+  "id": "e056",
+  "year": 1606,
+  "title": "Zitvatorok barışı",
+  "type": "Antlaşma",
+  "region": "hungary",
+  "text": "Uzun Habsburg savaşı sona erdi; diplomatik ilişkilerde yeni bir çerçeve.",
+  "source": "https://islamansiklopedisi.org.tr/zitvatorok-antlasmasi"
+ },
+ {
+  "id": "e057",
+  "year": 1623,
+  "title": "Bağdat’ın kaybı",
+  "type": "Kayıp",
+  "region": "iraq",
+  "text": "Şah Abbas Bağdat’ı ele geçirdi.",
+  "source": "https://islamansiklopedisi.org.tr/bagdat"
+ },
+ {
+  "id": "e058",
+  "year": 1635,
+  "title": "Yemen’de geri çekilme",
+  "type": "Kayıp",
+  "region": "yemen",
+  "text": "Zeydî güçler karşısında Osmanlı denetimi sona erdi; XIX. yüzyılda yeniden kurulacaktı.",
+  "source": "https://islamansiklopedisi.org.tr/yemen"
+ },
+ {
+  "id": "e059",
+  "year": 1638,
+  "title": "Bağdat’ın geri alınması",
+  "type": "Fetih",
+  "region": "iraq",
+  "text": "IV. Murad’ın seferiyle şehir tekrar Osmanlı yönetimine geçti.",
+  "source": "https://islamansiklopedisi.org.tr/murad-iv"
+ },
+ {
+  "id": "e060",
+  "year": 1639,
+  "title": "Kasrışîrin barışı",
+  "type": "Antlaşma",
+  "region": "iraq",
+  "text": "Doğu sınırında uzun ömürlü bir çerçeve kuruldu; bugünkü sınırların birebir çizimi değildir.",
+  "source": "https://islamansiklopedisi.org.tr/kasrisirin-antlasmasi"
+ },
+ {
+  "id": "e061",
+  "year": 1645,
+  "title": "Girit savaşının başlangıcı",
+  "type": "Savaş",
+  "region": "crete",
+  "text": "Hanya alındı; Kandiye’nin alınmasına kadar süren uzun savaş başladı.",
+  "source": "https://islamansiklopedisi.org.tr/girit"
+ },
+ {
+  "id": "e062",
+  "year": 1656,
+  "title": "Köprülü’nün sadâreti",
+  "type": "Siyaset",
+  "region": "istanbul",
+  "text": "Köprülü Mehmed Paşa’nın göreve gelişi, merkezî siyasette yeni bir dönem açtı.",
+  "source": "https://islamansiklopedisi.org.tr/koprulu-mehmed-pasa"
+ },
+ {
+  "id": "e063",
+  "year": 1669,
+  "title": "Kandiye ve Girit",
+  "type": "Fetih",
+  "region": "crete",
+  "text": "Kandiye’nin düşmesiyle adanın büyük bölümü Osmanlı yönetimine geçti; bazı Venedik üsleri daha sonra alındı.",
+  "source": "https://islamansiklopedisi.org.tr/girit",
+  "wikipedia": "Siege of Candia"
+ },
+ {
+  "id": "e064",
+  "year": 1672,
+  "title": "Bucaş ve Podolya",
+  "type": "Fetih",
+  "region": "podolia",
+  "text": "Kamaniçe ve Podolya’da doğrudan Osmanlı yönetimi.",
+  "source": "https://islamansiklopedisi.org.tr/bucas-antlasmasi"
+ },
+ {
+  "id": "e065",
+  "year": 1683,
+  "title": "II. Viyana kuşatması",
+  "type": "Savaş",
+  "region": "hungary",
+  "text": "Kuşatma başarısız oldu. Uzun Kutsal İttifak savaşları başladı.",
+  "source": "https://islamansiklopedisi.org.tr/mehmed-iv",
+  "wikipedia": "Battle of Vienna"
+ },
+ {
+  "id": "e066",
+  "year": 1686,
+  "title": "Budin’in kaybı",
+  "type": "Kayıp",
+  "region": "hungary",
+  "text": "Habsburg ordusu Budin’i aldı; Orta Macaristan’daki Osmanlı düzeni çözüldü.",
+  "source": "https://islamansiklopedisi.org.tr/budin"
+ },
+ {
+  "id": "e067",
+  "year": 1697,
+  "title": "Zenta Muharebesi",
+  "type": "Savaş",
+  "region": "banat",
+  "text": "Ağır yenilgi Karlofça görüşmelerine giden yolu açtı.",
+  "source": "https://islamansiklopedisi.org.tr/mustafa-ii"
+ },
+ {
+  "id": "e068",
+  "year": 1699,
+  "title": "Karlofça Antlaşması",
+  "type": "Kayıp",
+  "region": "podolia",
+  "text": "Macaristan’ın büyük kısmı ve Erdel Habsburglara, Podolya Lehistan’a, Mora Venedik’e bırakıldı.",
+  "source": "https://islamansiklopedisi.org.tr/karlofca",
+  "wikipedia": "Treaty of Karlowitz"
+ },
+ {
+  "id": "e069",
+  "year": 1700,
+  "title": "İstanbul barışı ve Azak",
+  "type": "Kayıp",
+  "region": "azov",
+  "text": "Rusya’nın Azak kazanımı tanındı.",
+  "source": "https://islamansiklopedisi.org.tr/istanbul-antlasmasi"
+ },
+ {
+  "id": "e070",
+  "year": 1711,
+  "title": "Prut Antlaşması",
+  "type": "Fetih",
+  "region": "azov",
+  "text": "Azak Osmanlılara geri verildi.",
+  "source": "https://islamansiklopedisi.org.tr/prut-antlasmasi"
+ },
+ {
+  "id": "e071",
+  "year": 1715,
+  "title": "Mora’nın geri alınması",
+  "type": "Fetih",
+  "region": "morea",
+  "text": "Venedik yönetimindeki yarımada yeniden Osmanlılara geçti.",
+  "source": "https://islamansiklopedisi.org.tr/mora"
+ },
+ {
+  "id": "e072",
+  "year": 1718,
+  "title": "Pasarofça Antlaşması",
+  "type": "Kayıp",
+  "region": "banat",
+  "text": "Banat ve Belgrad Habsburglara bırakıldı.",
+  "source": "https://islamansiklopedisi.org.tr/pasarofca-antlasmasi"
+ },
+ {
+  "id": "e073",
+  "year": 1729,
+  "title": "Müteferrika’nın ilk baskıları",
+  "type": "Kültür",
+  "region": "istanbul",
+  "text": "Vankulu Lugatı, Türkçe matbaanın ilk kitapları arasında yer aldı.",
+  "source": "https://islamansiklopedisi.org.tr/ibrahim-muteferrika",
+  "wikipedia": "Ibrahim Muteferrika"
+ },
+ {
+  "id": "e074",
+  "year": 1739,
+  "title": "Belgrad Antlaşması",
+  "type": "Fetih",
+  "region": "belgrade",
+  "text": "Belgrad Osmanlılara döndü; kuzey sınırında yeniden düzenleme.",
+  "source": "https://islamansiklopedisi.org.tr/belgrad-antlasmasi"
+ },
+ {
+  "id": "e075",
+  "year": 1770,
+  "title": "Çeşme Deniz Muharebesi",
+  "type": "Savaş",
+  "region": "west-anatolia",
+  "text": "Rus donanması karşısında Osmanlı donanmasının büyük bölümü yok edildi.",
+  "source": "https://islamansiklopedisi.org.tr/cesme-vakasi",
+  "wikipedia": "Battle of Chesma"
+ },
+ {
+  "id": "e076",
+  "year": 1774,
+  "title": "Küçük Kaynarca",
+  "type": "Kayıp",
+  "region": "crimea",
+  "text": "Kırım Hanlığı bağımsızlaştı; Osmanlı tâbiliği sona erdi.",
+  "source": "https://islamansiklopedisi.org.tr/kucuk-kaynarca-antlasmasi",
+  "wikipedia": "Treaty of Küçük Kaynarca"
+ },
+ {
+  "id": "e077",
+  "year": 1783,
+  "title": "Kırım’ın Rusya tarafından ilhakı",
+  "type": "Kayıp",
+  "region": "crimea",
+  "text": "1774’te bağımsızlaşan hanlık Rusya tarafından ilhak edildi; bu 1783’te ilk kez Osmanlı toprağı kaybı değildir.",
+  "source": "https://islamansiklopedisi.org.tr/kirim"
+ },
+ {
+  "id": "e078",
+  "year": 1792,
+  "title": "Yaş Antlaşması",
+  "type": "Kayıp",
+  "region": "blacksea",
+  "text": "Karadeniz’in kuzeyinde Rus kazanımları tanındı.",
+  "source": "https://islamansiklopedisi.org.tr/yas-antlasmasi"
+ },
+ {
+  "id": "e079",
+  "year": 1798,
+  "title": "Mısır’ın Fransız işgali",
+  "type": "Kayıp",
+  "region": "egypt",
+  "text": "Fransız işgali 1801’e kadar sürdü; hukukî Osmanlı egemenliğiyle fiilî denetim ayrıldı.",
+  "source": "https://islamansiklopedisi.org.tr/misir"
+ },
+ {
+  "id": "e080",
+  "year": 1801,
+  "title": "Fransızların Mısır’dan çekilmesi",
+  "type": "Fetih",
+  "region": "egypt",
+  "text": "Osmanlı ve Britanya kuvvetleri işgali sona erdirdi.",
+  "source": "https://islamansiklopedisi.org.tr/misir"
+ },
+ {
+  "id": "e081",
+  "year": 1808,
+  "title": "Sened-i İttifak",
+  "type": "Siyaset",
+  "region": "istanbul",
+  "text": "Merkez ile âyanlar arasındaki ilişkiyi düzenleme girişimi.",
+  "source": "https://islamansiklopedisi.org.tr/sened-i-ittifak"
+ },
+ {
+  "id": "e082",
+  "year": 1812,
+  "title": "Bükreş Antlaşması",
+  "type": "Kayıp",
+  "region": "bessarabia",
+  "text": "Besarabya Rusya’ya bırakıldı.",
+  "source": "https://islamansiklopedisi.org.tr/bukres-antlasmasi"
+ },
+ {
+  "id": "e083",
+  "year": 1817,
+  "title": "Sırbistan’ın özerkliği",
+  "type": "Siyaset",
+  "region": "serbia",
+  "text": "Yerel prenslik düzeni gelişti; 1830’da özerklik resmen genişletildi.",
+  "source": "https://islamansiklopedisi.org.tr/sirbistan"
+ },
+ {
+  "id": "e084",
+  "year": 1821,
+  "title": "Yunan ayaklanması",
+  "type": "Siyaset",
+  "region": "morea",
+  "text": "Bağımsızlığa uzanan savaş başladı.",
+  "source": "https://islamansiklopedisi.org.tr/yunanistan"
+ },
+ {
+  "id": "e085",
+  "year": 1821,
+  "title": "Mısır’ın Sudan’a genişlemesi",
+  "type": "Fetih",
+  "region": "sudan",
+  "text": "Nil boyunca Mısır yönetimi genişledi. Osmanlı merkezinin doğrudan denetimi olarak gösterilmez.",
+  "source": "https://islamansiklopedisi.org.tr/sudan"
+ },
+ {
+  "id": "e086",
+  "year": 1826,
+  "title": "Yeniçeri Ocağı’nın kaldırılması",
+  "type": "Siyaset",
+  "region": "istanbul",
+  "text": "Vak‘a-i Hayriyye askerî düzeni değiştirdi.",
+  "source": "https://islamansiklopedisi.org.tr/vaka-i-hayriyye",
+  "wikipedia": "Auspicious Incident"
+ },
+ {
+  "id": "e087",
+  "year": 1827,
+  "title": "Navarin Deniz Muharebesi",
+  "type": "Savaş",
+  "region": "morea",
+  "text": "Birleşik donanma, Osmanlı–Mısır filosunu imha etti.",
+  "source": "https://islamansiklopedisi.org.tr/navarin",
+  "wikipedia": "Battle of Navarino"
+ },
+ {
+  "id": "e088",
+  "year": 1830,
+  "title": "Yunan bağımsızlığı ve Cezayir’in kaybı",
+  "type": "Kayıp",
+  "region": "morea",
+  "text": "Yunanistan bağımsızlaştı; Fransa Cezayir’i işgal etti.",
+  "source": "https://islamansiklopedisi.org.tr/yunanistan"
+ },
+ {
+  "id": "e089",
+  "year": 1831,
+  "title": "Mehmed Ali’nin Suriye seferi",
+  "type": "Siyaset",
+  "region": "syria",
+  "text": "Mısır orduları Suriye’ye ilerledi; merkez ile bağlı eyalet arasında savaş.",
+  "source": "https://islamansiklopedisi.org.tr/mehmed-ali-pasa-kavalali"
+ },
+ {
+  "id": "e090",
+  "year": 1839,
+  "title": "Tanzimat Fermanı",
+  "type": "Siyaset",
+  "region": "istanbul",
+  "text": "Gülhane’de reform ve hak güvenceleri ilan edildi.",
+  "source": "https://islamansiklopedisi.org.tr/tanzimat",
+  "wikipedia": "Edict of Gülhane"
+ },
+ {
+  "id": "e091",
+  "year": 1840,
+  "title": "Londra düzeni ve Mısır",
+  "type": "Antlaşma",
+  "region": "egypt",
+  "text": "Mısır’ın hanedanî valiliği, Suriye’nin merkeze dönüşüyle birlikte düzenlendi.",
+  "source": "https://islamansiklopedisi.org.tr/mehmed-ali-pasa-kavalali"
+ },
+ {
+  "id": "e092",
+  "year": 1849,
+  "title": "Yemen’e dönüş",
+  "type": "Fetih",
+  "region": "yemen",
+  "text": "Osmanlı varlığı kıyıda yeniden kuruldu; 1872’de iç bölgelere genişledi.",
+  "source": "https://islamansiklopedisi.org.tr/yemen"
+ },
+ {
+  "id": "e093",
+  "year": 1856,
+  "title": "Paris barışı ve Islahat Fermanı",
+  "type": "Antlaşma",
+  "region": "istanbul",
+  "text": "Kırım Savaşı sona erdi; hukukî reformlar ilan edildi.",
+  "source": "https://islamansiklopedisi.org.tr/paris-antlasmasi"
+ },
+ {
+  "id": "e094",
+  "year": 1864,
+  "title": "Kafkas göçleri",
+  "type": "Toplum",
+  "region": "east-anatolia",
+  "text": "Rus fetihleri sonrasında Çerkesler ve diğer Kafkas toplulukları kitlesel olarak Osmanlı topraklarına sürüldü ve göç etti.",
+  "source": "https://islamansiklopedisi.org.tr/cerkezler"
+ },
+ {
+  "id": "e095",
+  "year": 1871,
+  "title": "Lahsâ’da Osmanlı yönetimi",
+  "type": "Fetih",
+  "region": "hasa",
+  "text": "Basra Körfezi kıyısında yönetim kuruldu; 1913’te kaybedildi.",
+  "source": "https://islamansiklopedisi.org.tr/lahsa"
+ },
+ {
+  "id": "e096",
+  "year": 1876,
+  "title": "Kanûn-ı Esâsî",
+  "type": "Siyaset",
+  "region": "istanbul",
+  "text": "İlk Osmanlı anayasası ilan edildi; aynı yılda üç padişah tahta çıktı.",
+  "source": "https://islamansiklopedisi.org.tr/kanun-i-esasi",
+  "wikipedia": "Ottoman constitution of 1876"
+ },
+ {
+  "id": "e097",
+  "year": 1878,
+  "title": "Berlin Antlaşması",
+  "type": "Kayıp",
+  "region": "bulgaria",
+  "text": "Sırbistan, Karadağ ve Romanya bağımsızlığı; Bulgaristan’da bağlı prenslik; Bosna’da Avusturya-Macaristan işgali.",
+  "source": "https://islamansiklopedisi.org.tr/berlin-antlasmasi",
+  "wikipedia": "Congress of Berlin"
+ },
+ {
+  "id": "e098",
+  "year": 1878,
+  "title": "Kıbrıs’ta Britanya yönetimi",
+  "type": "Kayıp",
+  "region": "cyprus",
+  "text": "Osmanlı hukukî egemenliği sürerken idarî denetim Britanya’ya devredildi.",
+  "source": "https://islamansiklopedisi.org.tr/kibris"
+ },
+ {
+  "id": "e099",
+  "year": 1881,
+  "title": "Tunus’ta Fransız himayesi",
+  "type": "Kayıp",
+  "region": "tunisia",
+  "text": "Fiilî yönetim Fransız himayesine geçti.",
+  "source": "https://islamansiklopedisi.org.tr/tunus"
+ },
+ {
+  "id": "e100",
+  "year": 1882,
+  "title": "Mısır’da Britanya işgali",
+  "type": "Kayıp",
+  "region": "egypt",
+  "text": "Osmanlı üst egemenliği 1914’e kadar sürse de fiilî denetim Britanya’ya geçti.",
+  "source": "https://islamansiklopedisi.org.tr/misir"
+ },
+ {
+  "id": "e101",
+  "year": 1898,
+  "title": "Girit’te özerk düzen",
+  "type": "Siyaset",
+  "region": "crete",
+  "text": "Uluslararası müdahale sonrası özerklik; Osmanlı üst egemenliği nominal kaldı.",
+  "source": "https://islamansiklopedisi.org.tr/girit"
+ },
+ {
+  "id": "e102",
+  "year": 1908,
+  "title": "II. Meşrutiyet ve kopuşlar",
+  "type": "Siyaset",
+  "region": "bosnia",
+  "text": "Meşrutiyet yeniden ilan edildi; Bulgaristan bağımsızlık, Avusturya-Macaristan Bosna ilhakı ilan etti.",
+  "source": "https://islamansiklopedisi.org.tr/mesrutiyet",
+  "wikipedia": "Young Turk Revolution"
+ },
+ {
+  "id": "e103",
+  "year": 1912,
+  "title": "Trablusgarp ve I. Balkan Savaşı",
+  "type": "Kayıp",
+  "region": "tripoli",
+  "text": "Uşi ile Trablusgarp’tan çekilme; Balkanlarda hızlı askerî çözülme.",
+  "source": "https://islamansiklopedisi.org.tr/usi-antlasmasi"
+ },
+ {
+  "id": "e104",
+  "year": 1913,
+  "title": "Balkan düzeni ve Edirne’nin dönüşü",
+  "type": "Kayıp",
+  "region": "macedonia",
+  "text": "Arnavutluk, Makedonya ve Batı Trakya kaybedildi. Edirne geri alındı; Ege adalarının statüsü ayrıca tartışıldı.",
+  "source": "https://islamansiklopedisi.org.tr/balkan-savaslari"
+ },
+ {
+  "id": "e105",
+  "year": 1914,
+  "title": "Dünya Savaşı’na giriş",
+  "type": "Savaş",
+  "region": "istanbul",
+  "text": "Osmanlı Devleti savaşa girdi; Britanya Mısır ve Kıbrıs’taki nominal Osmanlı egemenliğine son verdi.",
+  "source": "https://islamansiklopedisi.org.tr/birinci-dunya-savasi"
+ },
+ {
+  "id": "e106",
+  "year": 1915,
+  "title": "Çanakkale ve demografik kırılma",
+  "type": "Toplum",
+  "region": "east-anatolia",
+  "text": "Çanakkale cephesi; aynı yıl Ermeni tehciri ve soykırımı, Anadolu’nun toplumsal coğrafyasını geri döndürülemez biçimde değiştirdi.",
+  "source": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth"
+ },
+ {
+  "id": "e107",
+  "year": 1916,
+  "title": "Arap isyanı ve Hicaz",
+  "type": "Kayıp",
+  "region": "hejaz",
+  "text": "Mekke ve Hicaz’ın önemli bölümü kaybedildi; Medine garnizonu 1919’a kadar direndi.",
+  "source": "https://islamansiklopedisi.org.tr/arap-isyanlari"
+ },
+ {
+  "id": "e108",
+  "year": 1917,
+  "title": "Bağdat ve Kudüs’ün kaybı",
+  "type": "Kayıp",
+  "region": "iraq",
+  "text": "Britanya ordusu Bağdat’ı ve Kudüs’ü ele geçirdi. Model Irak ve Filistin’i bu dönüm noktasında toplulaştırır.",
+  "source": "https://islamansiklopedisi.org.tr/birinci-dunya-savasi"
+ },
+ {
+  "id": "e109",
+  "year": 1918,
+  "title": "Mondros Mütarekesi",
+  "type": "Kayıp",
+  "region": "syria",
+  "text": "Suriye ve Arap eyaletlerinde fiilî yönetimin sonu. Başkent ve Anadolu’daki işgaller takip etti.",
+  "source": "https://islamansiklopedisi.org.tr/mondros-mutarekesi"
+ },
+ {
+  "id": "e110",
+  "year": 1919,
+  "title": "İzmir’in işgali ve Millî Mücadele",
+  "type": "Siyaset",
+  "region": "west-anatolia",
+  "text": "Yunan işgali başladı; Anadolu’da Ankara merkezli bağımsızlık hareketi gelişti.",
+  "source": "https://islamansiklopedisi.org.tr/milli-mucadele"
+ },
+ {
+  "id": "e111",
+  "year": 1920,
+  "title": "TBMM ve iki siyasî merkez",
+  "type": "Siyaset",
+  "region": "north-anatolia",
+  "text": "Ankara hükûmeti kuruldu. Sevr imzalandı fakat yürürlüğe girmedi; uygulanmış sınır gibi çizilmez.",
+  "source": "https://islamansiklopedisi.org.tr/sevr-antlasmasi"
+ },
+ {
+  "id": "e112",
+  "year": 1922,
+  "title": "Saltanatın kaldırılması",
+  "type": "Siyaset",
+  "region": "istanbul",
+  "text": "1 Kasım 1922. Osmanlı saltanatı sona erdi; Anadolu ortadan kaybolmadı, yeni siyasî düzen altında kaldı.",
+  "source": "https://islamansiklopedisi.org.tr/hilafet",
+  "wikipedia": "Abolition of the Ottoman sultanate"
+ }
+]

@@ -1,0 +1,1 @@
+{"name":"atlas-tools","private":true,"type":"module","scripts":{"build:geo":"node build-geography.mjs"},"devDependencies":{"@turf/turf":"^7.4.0","maplibre-gl":"^5.24.0","mapshaper":"^0.6.121","polylabel":"^2.1.0"}}

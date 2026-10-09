@@ -1,0 +1,74 @@
+{
+ "turk": {
+  "name": "Türk / Türkmen",
+  "color": "#dfa75d"
+ },
+ "greek": {
+  "name": "Rum / Yunanca",
+  "color": "#69b8d5"
+ },
+ "armenian": {
+  "name": "Ermeni",
+  "color": "#cb91be"
+ },
+ "kurd": {
+  "name": "Kürt",
+  "color": "#90bc87"
+ },
+ "arab": {
+  "name": "Arap",
+  "color": "#dd7d67"
+ },
+ "slav": {
+  "name": "Güney Slav dilleri",
+  "color": "#a3a3dd"
+ },
+ "albanian": {
+  "name": "Arnavut",
+  "color": "#6dccb2"
+ },
+ "jewish": {
+  "name": "Yahudi cemaatleri",
+  "color": "#ecdc85"
+ },
+ "sephardic": {
+  "name": "Sefarad · 1492 sonrası",
+  "color": "#e5c453"
+ },
+ "amazigh": {
+  "name": "Amazigh / Berberî",
+  "color": "#b29a78"
+ },
+ "vlach": {
+  "name": "Ulah / Romen",
+  "color": "#91baca"
+ },
+ "tatar": {
+  "name": "Kırım Tatarı / Türkî",
+  "color": "#d29966"
+ },
+ "caucasian": {
+  "name": "Çerkes / Kafkas",
+  "color": "#b7cb8a"
+ },
+ "syriac": {
+  "name": "Süryani",
+  "color": "#a995cf"
+ },
+ "magyar": {
+  "name": "Macar",
+  "color": "#d7a0a0"
+ },
+ "copt": {
+  "name": "Kıptî",
+  "color": "#d2b65f"
+ },
+ "nubian": {
+  "name": "Nûbî",
+  "color": "#88b6a7"
+ },
+ "georgian": {
+  "name": "Gürcü",
+  "color": "#a1b3d1"
+ }
+}

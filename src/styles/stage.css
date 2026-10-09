@@ -1,0 +1,39 @@
+/* The prototype's map overlays were SVG; here they are HTML pinned to the MapLibre camera. Same look, new carriers. */
+.splash { position: fixed; inset: 0; display: grid; place-items: center; background: var(--stage); color: var(--mute-d); font: italic 400 22px var(--font-heading); }
+.basemap { position: absolute; inset: 0; background: var(--stage); }
+.map-overlay { position: absolute; inset: 0; pointer-events: none; overflow: hidden; z-index: 1; }
+.map-overlay > * { position: absolute; left: 0; top: 0; will-change: transform; }
+
+.lbl-sea { font: italic 400 17px var(--font-heading); letter-spacing: .3em; color: #857b6e; white-space: nowrap; transform-origin: 0 0; }
+
+.city { display: block; white-space: nowrap; }
+.city i { position: absolute; left: -3.2px; top: -3.2px; width: 6.4px; height: 6.4px; border-radius: 50%; background: var(--gold-hi); box-shadow: 0 0 0 2px var(--stage); }
+.city em { position: absolute; left: 7px; top: -21px; font: normal 400 12.5px var(--font-body); color: var(--ink-d); text-shadow: 0 0 3px var(--stage), 0 0 3px var(--stage), 0 0 6px var(--stage); }
+.city.off i { background: #6f665a; }
+.city.off em { color: #93897c; }
+
+.eth { pointer-events: auto; translate: -50% -60%; display: flex; flex-direction: column; align-items: center; gap: 3px; min-width: 64px; padding: 5px 8px 4px; background: rgba(21, 18, 15, .88); border: 1px solid var(--hair-d); border-radius: 2px; }
+.eth:hover, .eth:focus-visible { border-color: var(--gold-hi); }
+.eth-dots { display: flex; gap: 3.4px; }
+.eth-dots i { width: 7.6px; height: 7.6px; border-radius: 50%; }
+.eth-name { font: 400 11px var(--font-body); color: var(--ink-d); white-space: nowrap; }
+.eth.compact { min-width: 0; padding: 3px 5px; }
+.eth.compact .eth-name { display: none; }
+
+.focus i { position: absolute; display: block; }
+.focus .ring { left: -9px; top: -9px; width: 18px; height: 18px; border-radius: 50%; border: 1.3px solid #f6dcac; }
+.focus .ring.pulse { left: -16px; top: -16px; width: 32px; height: 32px; animation: pulse 2.2s ease-out infinite; }
+.focus .dot { left: -3px; top: -3px; width: 6px; height: 6px; border-radius: 50%; background: #f6dcac; }
+.focus .stem { left: 0; top: -34px; width: 1px; height: 25px; background: rgba(246, 220, 172, .6); }
+.focus em { position: absolute; left: 8px; top: -56px; white-space: nowrap; font: italic 400 19px var(--font-heading); color: #f6dcac; text-shadow: 0 0 4px var(--stage), 0 0 4px var(--stage), 0 0 10px var(--stage); }
+.focus em.left { left: auto; right: 8px; }
+
+.polity-labels { position: absolute; inset: 0; pointer-events: none; overflow: hidden; z-index: 1; }
+.polity-label { position: absolute; left: 0; top: 0; white-space: nowrap; font: 400 9.5px var(--font-body); letter-spacing: .32em; text-transform: uppercase; color: rgba(205, 195, 180, .55); text-shadow: 0 0 6px rgba(10, 8, 6, .9), 0 0 2px rgba(10, 8, 6, .9); }
+.polity-label.dependant { color: rgba(240, 190, 160, .6); }
+.polity-label.mine { font: 400 18px var(--font-heading); letter-spacing: .34em; color: #f0d29c; text-shadow: 0 0 10px rgba(40, 6, 4, .95), 0 0 3px rgba(40, 6, 4, .9); }
+
+.tip .tip-polity { display: block; margin-top: 3px; color: var(--faint-d); font-size: 11.5px; }
+.tip b + .tip-polity { border-top: 1px solid var(--hair-d2); padding-top: 3px; }
+.sw.neighbour { background: rgba(130, 124, 112, .45); border-color: rgba(30, 24, 20, .8); }
+.maplibregl-canvas { outline: none; }

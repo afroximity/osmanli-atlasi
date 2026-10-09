@@ -1,0 +1,38 @@
+[
+ {
+  "name": "TDV İslâm Ansiklopedisi",
+  "title": "Osmanlılar — siyasî ve toplumsal tarih",
+  "url": "https://islamansiklopedisi.org.tr/osmanlilar",
+  "use": "Kronoloji ve temel tarihî bağlam. Her kişi ve olay kartı ayrıca ilgili maddeye bağlanır."
+ },
+ {
+  "name": "TDV İslâm Ansiklopedisi",
+  "title": "Millet — Osmanlılarda millet sistemi",
+  "url": "https://islamansiklopedisi.org.tr/millet#2-osmanlilarda-millet-sistemi",
+  "use": "Dinî cemaat ile etnik/dilsel kimliğin aynı kavram olmadığını açıklayan çerçeve."
+ },
+ {
+  "name": "Library of Congress",
+  "title": "XVII. yüzyıl Osmanlı haritası",
+  "url": "https://www.loc.gov/item/2021668591/",
+  "use": "Tarihî haritaların okunması. Katalog, sonradan eklenen renklerin çağdaş sınır sanılmaması gerektiğini belirtir."
+ },
+ {
+  "name": "Library of Congress",
+  "title": "Balkan haritaları koleksiyonu",
+  "url": "https://guides.loc.gov/macedonian-collections/special-collections-maps",
+  "use": "Geç Osmanlı etnografik haritalarının tarih ve bağlamını incelemek için. Bu atlasın noktaları bu haritalardan sayısallaştırılmadı."
+ },
+ {
+  "name": "USHMM",
+  "title": "1915–1916 Ermeni soykırımı",
+  "url": "https://encyclopedia.ushmm.org/content/en/article/the-armenian-genocide-1915-16-in-depth",
+  "use": "Son dönem toplumsal ve demografik kırılma."
+ },
+ {
+  "name": "Natural Earth",
+  "title": "1:110m coğrafî taban · public domain",
+  "url": "https://www.naturalearthdata.com/about/terms-of-use/",
+  "use": "Kıyı çizgisi ve kara geometrisi. Modern ülke sınırları, tarihî sınır olarak gösterilmez."
+ }
+]
